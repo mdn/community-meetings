@@ -21,4 +21,5 @@ Any questions from folks & anything to discuss
 
 - Labels on mdn/content
 - PR review process
-- (Will) Issue triage
+- Issue triage process
+- [Discussion about how we represent API security features in frontmatter](https://github.com/orgs/mdn/discussions/288)
