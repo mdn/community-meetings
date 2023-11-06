@@ -1,4 +1,4 @@
-# Agenda for MDN Community meeting [insert date]
+# Agenda for MDN Community meeting 13/11/2023
 
 ## Intro & overview of agenda
 
