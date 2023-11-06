@@ -21,3 +21,4 @@ Any questions from folks & anything to discuss
 
 - Labels on mdn/content
 - PR review process
+- (Will) Issue triage
