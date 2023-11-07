@@ -8,6 +8,7 @@ Any project updates from the MDN team
 
 - Discord
 - Observatory
+- Baseline
 
 ## Contributor updates
 
