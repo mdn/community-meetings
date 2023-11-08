@@ -2,13 +2,19 @@
 
 ## Intro & overview of agenda
 
-## Team updates
+## Updates
 
-Any project updates from the MDN team
+Updates from the MDN team
 
+- This meeting (feeback & moving forward)
 - Discord
+- Labels on mdn/content
+
+### Projects
+
 - Observatory
 - Baseline
+- Triage work
 
 ## Contributor updates
 
@@ -20,7 +26,6 @@ Any project/work updates from contributors
 
 Any questions from folks & anything to discuss
 
-- Labels on mdn/content
 - PR review process
-- Issue triage process
 - [Discussion about how we represent API security features in frontmatter](https://github.com/orgs/mdn/discussions/288)
+- [Reconsider the way we represent globals in Web/API](https://github.com/orgs/mdn/discussions/360)
