@@ -9,6 +9,8 @@ Updates from the MDN team
 - This meeting (feeback & moving forward)
 - Discord
 - Labels on mdn/content
+- Discussions on mdn-community
+- [Engineering role](https://www.mozilla.org/en-US/careers/position/gh/5448569/)
 
 ### Projects
 
