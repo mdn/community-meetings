@@ -6,7 +6,7 @@
 
 Updates from the MDN team
 
-- This meeting (feeback & moving forward)
+- This meeting (feedback & moving forward)
 - Discord
 - Labels on mdn/content
 - Discussions on mdn-community
