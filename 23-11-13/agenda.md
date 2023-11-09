@@ -22,7 +22,7 @@ Updates from the MDN team
 
 Any project/work updates from contributors
 
-- BCD
+- [Automating BCD](https://github.com/openwebdocs/project/issues/168) & [Web platform features](https://github.com/openwebdocs/project/issues/169)
 
 ## Questions/Discussions
 
