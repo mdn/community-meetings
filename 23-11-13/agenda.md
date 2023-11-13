@@ -14,8 +14,8 @@ Updates from the MDN team
 
 ### Projects
 
-- Baseline
 - Triage work
+- Baseline
 - (Next time) Observatory
 
 ## Contributor updates
