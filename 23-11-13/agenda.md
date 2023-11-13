@@ -28,6 +28,6 @@ Any project/work updates from contributors
 
 Any questions from folks & anything to discuss
 
-- PR review process
 - [Discussion about how we represent API security features in frontmatter](https://github.com/orgs/mdn/discussions/288)
 - [Reconsider the way we represent globals in Web/API](https://github.com/orgs/mdn/discussions/360)
+- PR review process
