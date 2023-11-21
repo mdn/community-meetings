@@ -4,20 +4,19 @@
 
 - (Ruth) enabled captioning, there's a transcript, call is not recorded
 
-  - meeting notes in agenda repo
   - 1 again next month, date and time TBD, looking at frequency of these calls in future
   - Catch us on Discord, we cleaned it up, we are there
   - GitHub labels, if you're going to change labels, ask us or let us know.
   - All discussions should be on MDN Community
     - We will move these across to mdn-community
-  - hiring an engineer, 12 month fixed, link in agenda, let us know if you know someone
+  - Hiring an [engineer, 12 month fixed](https://www.mozilla.org/en-US/careers/position/gh/5448569/), let us know if you know someone
   - Summary of the agenda
 
 ## Issue triage
 
 - Claas, one focus for us in Q4 is triaging issues, PRs and Discussion.
 - October we looked at issues. Our target is that 95% of issues are triaged within a week. This is tracked in a GitHub project that is private. Combination of automation helps us surface issues we weren't looking at.
-- We are three teams, product, content and eng. The majority of issues come in for content, but the first challenge is figuring out who should be looking at which issue. Often the engineering team are involved in many issues as there's overlap.
+- We are three teams, product, content and eng. The majority of issues come in for content, but the first challenge is figuring out who should be looking at which issue. Often the engineering team is involved in many issues as there's overlap.
 - Triage has a lot of aspects, identify missing information, categorize it, get an understanding of what kinds of issues arise. We already use labels for this.
   - next step is figuring out how much work needs to be done, next is priority - figuring out if it should change or if priority needs to be added.
 - We have a short backlog of issues to go through, the backlog is decreasing, focus for November is backlog.
@@ -43,33 +42,33 @@
 ## Web platform features
   
 - (Daniel) web features is a project to provide a taxonomy of the major features of the web platform. There's already BCD, to identify all points of CSS props and values, granularity is quite fine. Web features try to zoom out and see if all of CSS Grid is supported. On caniuse, we have one box that shows support for CSS Grid. We're trying to regularize this, CSS grid is made of these features and sub-features. Consider also subgrid, web features identify this as a separate thing. We're looking at relationships of features and how they will look in future.
-- At the moment it's a way of linking between resources. Link to spec, toBCD, to caniuse.
-- Biggest one is Baseline, how this status is built is based on knowing when and where these features are supported. Working on bringing this into BCD. This will become a useful tool for authors to help them understand how to distinguish between features, or influence how features are organized. Grouping bits and pieces of the web is difficult. Web features helps here.
+- At the moment it's a way of linking between resources. Link to spec, to BCD, to caniuse.
+- Biggest one is Baseline, how this status is built is based on knowing when and where these features are supported. Working on bringing this into BCD. This will become a useful tool for authors to help them understand how to distinguish between features, or influence how features are organized. Grouping bits and pieces of the web is difficult. Web features help here.
 - (Ruth) you only have to look at the amount of files to know that this is necessary
-- (Vadim) Thank you for pointing out the difference between BCD and we features.
+- (Vadim) Thank you for pointing out the difference between BCD and web features.
 
 ## Browser Compat Data
 
 - (Florian) We are Open Web Docs, we contribute to MDN. Talking a lot with Daniel about how to tag features and categorize them as a group.
-- Working a lot with WebDX community group to figure out how to sort, group and categorize these features.
+- Working a lot with [WebDX community group](https://github.com/openwebdocs/project/issues/169) to figure out how to sort, group and categorize these features.
 - Not 12,000 features, but 15,000 in BCD.
-- Workflow hopefully looks like taggin resources when adding new BCD data, big thanks to Daniel for his help.
-- Automation in BCD, thanks to the work that JYP has done in the last 4 weeks, we're working on the process of automating adding data. This is a hard task to do manually.
+- Workflow hopefully looks like tagging resources when adding new BCD data, big thanks to Daniel for his help.
+- [Automation in BCD](https://github.com/openwebdocs/project/issues/168), thanks to the work that JYP has done in the last 4 weeks, we're working on the process of automating adding data. This is a hard task to do manually.
 - MDN BCD collector can automatically test features, we want to create a pipeline that
   - when a browser makes a release, mdn-bcd-collector runs to collect which features are supported. Thanks to MDN team for reviews.
-  - Shout to Sovereign Tech Fund who finds this work.
+  - Shout out to Sovereign Tech Fund who funds this work.
 - (Ruth) You're putting the web feature key into BCD, and in web features are you adding the there?
   - (Florian) the idea is that you create a group in web features, then add they key to BCD.
   - (Ruth) Do we start this already?
   - (Florian) We are going to start doing this now.
-  - (Daniel) One thing that's challenging is to bring in people to create groups and to review these. We want to create features that are useful. When something new lands in Chrome, and an author adds BCD data, this is an opportunity to tag work that's landing so that. When a new key is added in BCD, we trigger a process in web features.
+  - (Daniel) One thing that's challenging is to bring in people to create groups and to review these. We want to create features that are useful. When something new lands in Chrome, and an author adds BCD data, this is an opportunity to tag work that's landing so that when a new key is added in BCD, we trigger a process in web features.
   - (Ruth) We could check how our workflow would look like as authors, how does it look like for BCD updates. Making a note that we will try to find out best way to move forward in practical way.
 
 ## Questions from agenda:
 
-### (JYP) Recording and displaying sec req of APIs.
+### (JYP) Recording and displaying security requirement of APIs
 
-- Discussion started 1 yr ago. Will thinks it's time to get to a first agreement on this.
+- [Discussion](https://github.com/orgs/mdn/discussions/288) started 1 yr ago. Will thinks it's time to get to a first agreement on this.
 - Background is that a lot of APIs have security requirements, like secure contexts, permissions etc. Currently we don't store or display this very effectively.
 - Proposal is to add front-matter keys to easily display and manage these.
 - This is a long project, so a decision on how to do this should be done soon.
@@ -84,17 +83,18 @@
 
 ### (JYP) Globals in web api
 
-- (JYP) 1.5 years ago, we decided to avoid duplication of pages by moving them to global api are, examples b_toa, others like crypto object. This reduces several versions of the same content.
+- [Discussion](https://github.com/orgs/mdn/discussions/360)
+- (JYP) 1.5 years ago, we decided to avoid duplication of pages by moving them to global api, examples b_toa, others like crypto object. This reduces several versions of the same content.
 - Will discovered that navigation is bad for this. When you get here from a certain path, you will be missing other methods etc. in the sidebar. By looking more closely, this is problematic.
 - This amounts to 17 pages of duplication.
 - Examples on these pages are also problematic as they use methods in different contexts. We can have different types of pages with examples that are relevant for the context the reader wants.
 - We are no longer blocked by BCD considerations.
-- (Ruth) Also do not like the sound of duplication, but the discussion looks like it's a can of worms. See link to discussion in agenda.
+- (Ruth) Also do not like the sound of duplication, but the discussion looks like it's a can of worms.
 
 ### (Ruth) PR reviews
 
-- not big pull request reviews. Because of the open way that we work. We sometimes have reviewers in mind when opening PRs. It's a little noisy / hard to tell who should look at PRs. How do we differentiate project work from community work?
-- do we want to kill round robin reviewers / CODEOWNERS.
+- Please don't submit big pull request reviews. Because of the open way that we work, we sometimes have reviewers in mind when opening PRs. It's a little noisy / hard to tell who should look at PRs. How do we differentiate project work from community work?
+- Do we want to kill round robin reviewers / CODEOWNERS?
 - Any suggestions for improving this process?
 - (JYP) I don't like the Round Robin, I get things that I don't like to review. Assigning someone manually is an indicator that someone else should look at it. Suggest PR review meetings. We could do something like this in PR review. Easier to get typo fixes, smaller PRs
 - (Ruth) the upside is that PRs don't slip through the cracks with round robin. Maybe unassigning yourself as a reviewer could help? The other thing is that round robin only happens on content. We don't see other PRs on other repos. Could we try disabling round robin and seeing if reviews happen quicker? Any other ideas?
