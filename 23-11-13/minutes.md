@@ -7,8 +7,8 @@
   - 1 again next month, date and time TBD, looking at frequency of these calls in future
   - Catch us on Discord, we cleaned it up, we are there
   - GitHub labels, if you're going to change labels, ask us or let us know.
-  - All discussions should be on MDN Community
-    - We will move these across to mdn-community
+  - All discussions should be in the [mdn-community](https://github.com/orgs/mdn/discussions) repo
+    - We will move discussions from across various repos to the mdn-community repo
   - Hiring an [engineer, 12 month fixed](https://www.mozilla.org/en-US/careers/position/gh/5448569/), let us know if you know someone
   - Summary of the agenda
 
