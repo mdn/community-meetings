@@ -1,1 +1,1 @@
-# Minutes from MDN community meeting [insert date here]
+# Minutes from MDN community meeting 11th Dec '23
