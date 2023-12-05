@@ -22,4 +22,5 @@ Any questions from folks & anything to discuss
 - Issues related to "Formal Syntax" section
   - Capturing updates to formal syntax (webRef updates not reflected in MDN prose)
   - https://github.com/orgs/mdn/discussions/442
-  - We are colsing new mdn/content GitHub issues related to formal syntax because this is a bigger issue
+  - We are closing new mdn/content GitHub issues related to formal syntax because this is a bigger issue
+  - Or should we hide the entire "Formal Syntax" section till we are able to provide correct and latest syntax info?
