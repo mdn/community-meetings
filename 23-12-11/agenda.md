@@ -17,11 +17,13 @@ Any project updates from the MDN team
 
 Any project/work updates from contributors
 
+- Fighting "Flaws": what we did this year and next steps.
+
 ## Questions/Discussions
 
 Any questions from folks & anything to discuss
 
-- Content architechture workshop (new year)
+- Content architecture workshop (new year)
 - Issues related to "Formal Syntax" section
   - Capturing updates to formal syntax (webRef updates not reflected in MDN prose)
   - Discussion thread: [What's the "current version" of a spec, for CSS reference docs?](https://github.com/orgs/mdn/discussions/442)
