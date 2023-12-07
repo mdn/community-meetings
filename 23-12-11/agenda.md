@@ -3,6 +3,7 @@
 ## Intro & overview of agenda
 
 - Opensource etiquette reminder for everyone to [be respectful and kind with contributors as well as peers](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette#be_polite_be_kind_avoid_incendiary_or_offensive_language)
+  - [A recent study of comments of Wikipedia leads to reduce activity](https://academic.oup.com/pnasnexus/article/2/12/pgad385/7457939)
 
 ## Team updates
 
