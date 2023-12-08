@@ -32,3 +32,4 @@ Any questions from folks & anything to discuss
 - Would be nice to reach a consensus on this discussion: [Removal of redundant Markdown language headers](https://github.com/orgs/mdn/discussions/426)
   - Pros/Cons for removing headings in prose
   - Workarounds/solutions for still being able to refer to specific example prose if headings in prose are removed
+- The first APIs that need an "enrollment" before their use landed this week ([Shared Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Shared_Storage_API)) How to display this information on the relevent pages? A banner like for secure contexts?
