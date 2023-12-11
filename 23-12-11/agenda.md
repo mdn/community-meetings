@@ -32,3 +32,4 @@ Any questions from folks & anything to discuss
 - Would be nice to reach a consensus on this discussion: [Removal of redundant Markdown language headers](https://github.com/orgs/mdn/discussions/426)
   - Pros/Cons for removing headings in prose
   - Workarounds/solutions for still being able to refer to specific example prose if headings in prose are removed
+- We plan to close this discussion with a consensus this week; if you are interested in it, that's the last call: [Where and how to use `{{securecontext_inline}}`](https://github.com/mdn/content/discussions/30546#discussioncomment-7796301)
