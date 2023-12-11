@@ -2,6 +2,8 @@
 
 ## Intro & overview of agenda
 
+- Welcome
+- Notes about time off over the holiday period
 - Opensource etiquette reminder for everyone to [be respectful and kind with contributors as well as peers](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette#be_polite_be_kind_avoid_incendiary_or_offensive_language)
   - [A recent study of comments of Wikipedia leads to reduce activity](https://academic.oup.com/pnasnexus/article/2/12/pgad385/7457939)
 
@@ -10,7 +12,7 @@
 Any project updates from the MDN team
 
 - Curriculum work
-- Observatory
+- ~Observatory~ (moved to next month)
 - Next steps for Baseline
 
 ## Contributor updates
@@ -33,3 +35,4 @@ Any questions from folks & anything to discuss
   - Pros/Cons for removing headings in prose
   - Workarounds/solutions for still being able to refer to specific example prose if headings in prose are removed
 - The first APIs that need an "enrollment" before their use landed this week ([Shared Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Shared_Storage_API)) How to display this information on the relevent pages? A banner like for secure contexts?
+- Standards postion in docs https://github.com/orgs/mdn/discussions/463 
