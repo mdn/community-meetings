@@ -2,6 +2,8 @@
 
 ## Intro & overview of agenda
 
+- Welcome
+- Notes about time off over the holiday period
 - Opensource etiquette reminder for everyone to [be respectful and kind with contributors as well as peers](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette#be_polite_be_kind_avoid_incendiary_or_offensive_language)
   - [A recent study of comments of Wikipedia leads to reduce activity](https://academic.oup.com/pnasnexus/article/2/12/pgad385/7457939)
 
@@ -10,7 +12,7 @@
 Any project updates from the MDN team
 
 - Curriculum work
-- Observatory
+- ~Observatory~ (moved to next month)
 - Next steps for Baseline
 
 ## Contributor updates
@@ -32,4 +34,5 @@ Any questions from folks & anything to discuss
 - Would be nice to reach a consensus on this discussion: [Removal of redundant Markdown language headers](https://github.com/orgs/mdn/discussions/426)
   - Pros/Cons for removing headings in prose
   - Workarounds/solutions for still being able to refer to specific example prose if headings in prose are removed
+- Standards postion in docs https://github.com/orgs/mdn/discussions/463 
 - We plan to close this discussion with a consensus this week; if you are interested in it, that's the last call: [Where and how to use `{{securecontext_inline}}`](https://github.com/mdn/content/discussions/30546#discussioncomment-7796301)
