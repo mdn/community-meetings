@@ -20,6 +20,7 @@ Any project updates from the MDN team
 Any project/work updates from contributors
 
 - Fighting "Flaws": what we did this year and next steps.
+- BCD
 
 ## Questions/Discussions
 
