@@ -6,9 +6,9 @@ Each meeting has its own folder marked with the date of the meeting. If you want
 
 ## Next meeting
 
-- [15th January 2024](24-01-15)
-  - [Agenda](24-01-15/agenda.md)
-  - [Minutes](24-01-15/minutes.md)
+- [22nd January 2024](24-01-22)
+  - [Agenda](24-01-22/agenda.md)
+  - [Minutes](24-01-22/minutes.md)
 
 ## Previous meetings
 
