@@ -1,4 +1,4 @@
-# Agenda for MDN Community meeting 15th January '24
+# Agenda for MDN Community meeting 22nd January '24
 
 ## Intro & overview of agenda
 
