@@ -21,3 +21,4 @@ Any questions from folks & anything to discuss
 - The first APIs that need an "enrollment" before their use landed this week ([Shared Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Shared_Storage_API)) How to display this information on the relevant pages? A banner for secure contexts?
 - Standards position in docs https://github.com/orgs/mdn/discussions/463
 - Firefox [experimental features](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Experimental_features) page workflow
+- [Accepting more sources for polyfills](https://github.com/orgs/mdn/discussions/475#discussion-6000833)
