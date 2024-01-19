@@ -12,6 +12,7 @@ Any project updates from the MDN team
 
 Any project/work updates from contributors
 - [Community help needed] Documenting interoperable APIs. Let's document all `HTML*Element.*` APIs! [Instructions](https://github.com/orgs/mdn/discussions/476) – [Task list](https://docs.google.com/spreadsheets/d/1lvITVZJM8dx8s_Kee5UNI1hDfPNF0gXQwjPop5xIF5E/edit#gid=369545647)
+- [Community help needed] Document [missing JavaScript errors](https://github.com/mdn/mdn/issues/505) (@nataliaschlebinger)
 
 ## Questions/Discussions
 
