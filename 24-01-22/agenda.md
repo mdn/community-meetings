@@ -23,3 +23,4 @@ Any questions from folks & anything to discuss
 - Standards position in docs https://github.com/orgs/mdn/discussions/463
 - Firefox [experimental features](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Experimental_features) page workflow
 - [Accepting more sources for polyfills](https://github.com/orgs/mdn/discussions/475#discussion-6000833)
+- Document [missing JavaScript errors](https://github.com/mdn/mdn/issues/505) (@nataliaschlebinger)
