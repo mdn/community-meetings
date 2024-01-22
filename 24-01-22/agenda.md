@@ -6,6 +6,7 @@
 
 Any project updates from the MDN team
 
+- Firefox [experimental features](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Experimental_features) page workflow (@pepelsbey)
 - Observatory
 - Yari architecture & v2.0
 - PR "size" labels in Content
@@ -31,6 +32,5 @@ Any questions from folks & anything to discuss
 **Added in January:**
 
 - [Using GFM-standard syntax for notes & co](https://github.com/mdn/yari/pull/10168) (like `[!Notes]`) (@teoli2003)
-- Firefox [experimental features](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Experimental_features) page workflow (@pepelsbey)
 - [Accepting more sources for polyfills](https://github.com/orgs/mdn/discussions/475#discussion-6000833) (@ljharb / @teoli2003)
 - How to get reviews on Yari PRs? Many sit idle for months (@teoli2003)
