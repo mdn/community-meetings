@@ -10,6 +10,7 @@ Any project updates from the MDN team
 - Observatory
 - Yari architecture & v2.0
 - PR "size" labels in Content
+- Chat with Chris M about some pain points
 
 ## Contributor updates
 
