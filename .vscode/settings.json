@@ -1,0 +1,10 @@
+{
+  "cSpell.customDictionaries": {
+    "project-words": {
+      "name": "Project words",
+      "path": "${workspaceFolder:community-meetings}/.cspell/project-words.txt",
+      "addWords": true,
+      "scope": "workspace"
+    }
+  }
+}
