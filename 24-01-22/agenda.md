@@ -24,3 +24,4 @@ Any questions from folks & anything to discuss
 - Standards position in docs https://github.com/orgs/mdn/discussions/463
 - Firefox [experimental features](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Experimental_features) page workflow
 - [Accepting more sources for polyfills](https://github.com/orgs/mdn/discussions/475#discussion-6000833)
+- How to get reviews on Yari PRs? (Many sit idle for months)
