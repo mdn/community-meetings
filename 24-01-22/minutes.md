@@ -1,14 +1,11 @@
 # Minutes from MDN community meeting 22nd January '24
 
 **Attendees:**
-Mozilla: Ruth (@Rumyra), Brian (@bsmth), Vadim (@pepelsbey), Dipika (@dipikabh), Leo (@LeoMcA), Andi (@argl), Sonal (@s-sood)
-OWD: Florian (@Elchi3), Jean-Yves (@teoli2003), Estelle (@estelle)
-Google: Chris (@chrisdavidmills), Robert (@robnyman)
-Community: Onkar (@OnkarRuikar), Natalia (@nataliaschlebinger), Jordan Harband (@ljharb)
+Ruth (@Rumyra), Brian (@bsmth), Vadim (@pepelsbey), Dipika (@dipikabh), Leo (@LeoMcA), Andi (@argl), Sonal (@s-sood), Florian (@Elchi3), Jean-Yves (@teoli2003), Estelle (@estelle), Chris (@chrisdavidmills), Robert (@robnyman), Onkar (@OnkarRuikar), Natalia (@nataliaschlebinger), Jordan Harband (@ljharb)
 
 **Host:** Brian (@bsmth)
 
-**Taking notes:** Dipika (@dipikabh), Vadim (@pepelsbey)
+**Taking notes:** Dipika (@dipikabh)
 
 ## Welcome
 
