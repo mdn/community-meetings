@@ -2,6 +2,8 @@
 
 **Attendees:** Ruth (@rumyra), Claas (@caugner), Zach (@zfox23), Vadim (@pepelsbey), Onkar (@OnkarRuikar), Dave (@dletorey), Vinyl (@queengooborg), Florian (@Elchi3), Jean-Yves (@teoli2003), Estelle (@estelle), Chris (@chrisdavidmills), Will (@wbamberg).
 
+**Host:** Ruth (@rumyra)
+
 **Taking notes:** Brian (@bsmth)
 
 ## Welcome
