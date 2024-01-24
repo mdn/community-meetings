@@ -10,11 +10,13 @@ There is a calendar for these events:
 
 ## Next meeting
 
+February (TBD)
+
+## Previous meetings
+
 - [22nd January 2024](24-01-22)
   - [Agenda](24-01-22/agenda.md)
   - [Minutes](24-01-22/minutes.md)
-
-## Previous meetings
 
 - [11th December 2023](23-12-11)
   - [Agenda](23-12-11/agenda.md)
