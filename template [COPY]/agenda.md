@@ -4,12 +4,16 @@
 
 ## Team updates
 
-Any project updates from the MDN team
+Project updates from the MDN team
 
 ## Contributor updates
 
-Any project/work updates from contributors
+Project/work updates from contributors
+
+- [example] Progress on my awesome project. See [link for more details](https://github.com/mdn/community-meetings) (@MyUsername)
 
 ## Questions/Discussions
 
-Any questions from folks & anything to discuss
+Questions from folks & anything to discuss
+
+- [example] Discuss my interesting topic. See [link for more details](https://github.com/mdn/community-meetings) (@MyUsername)
