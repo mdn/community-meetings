@@ -1,4 +1,4 @@
-# Minutes from MDN community meeting 13/11/2023
+# Minutes from MDN community meeting 13th November 2023
 
 ## Intro
 
@@ -40,7 +40,7 @@
   - (Daniel) No questions from me
 
 ## Web platform features
-  
+
 - (Daniel) web features is a project to provide a taxonomy of the major features of the web platform. There's already BCD, to identify all points of CSS props and values, granularity is quite fine. Web features try to zoom out and see if all of CSS Grid is supported. On caniuse, we have one box that shows support for CSS Grid. We're trying to regularize this, CSS grid is made of these features and sub-features. Consider also subgrid, web features identify this as a separate thing. We're looking at relationships of features and how they will look in future.
 - At the moment it's a way of linking between resources. Link to spec, to BCD, to caniuse.
 - Biggest one is Baseline, how this status is built is based on knowing when and where these features are supported. Working on bringing this into BCD. This will become a useful tool for authors to help them understand how to distinguish between features, or influence how features are organized. Grouping bits and pieces of the web is difficult. Web features help here.
@@ -102,4 +102,3 @@
 - (Ruth) We could try this. Regarding S/M/L we don't want to incentivize taking small PRs.
 - (Estelle) Bot comments do inflate the activity on PRs. A bot may add 4/5 comments even. Those tiny PRs that have 6 comments, maybe nobody will look at it.
 - (Ruth) Priority on content, all content is equal, not purely stats-driven. Thank you for the comments about PRs.
-
