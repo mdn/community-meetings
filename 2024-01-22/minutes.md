@@ -1,4 +1,4 @@
-# Minutes from MDN community meeting 22nd January '24
+# Minutes from MDN community meeting 22nd January 2024
 
 **Attendees:**
 Ruth (@Rumyra), Brian (@bsmth), Vadim (@pepelsbey), Dipika (@dipikabh), Leo (@LeoMcA), Andi (@argl), Sonal (@s-sood), Florian (@Elchi3), Jean-Yves (@teoli2003), Estelle (@estelle), Chris (@chrisdavidmills), Robert (@robnyman), Onkar (@OnkarRuikar), Natalia (@nataliaschlebinger), Jordan Harband (@ljharb)

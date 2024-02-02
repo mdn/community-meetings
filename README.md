@@ -12,22 +12,22 @@ There is a public calendar if you would like to subscribe to these events:
 
 ## Next meeting
 
-- [26th February 2024](24-02-26)
-  - [Agenda](24-02-26/agenda.md)
-  - [Minutes](24-02-26/minutes.md)
+- [26th February 2024](2024-02-26)
+  - [Agenda](2024-02-26/agenda.md)
+  - [Minutes](2024-02-26/minutes.md)
 
 ## Previous meetings
 
-- [22nd January 2024](24-01-22)
+- [22nd January 2024](2024-01-22)
 
-  - [Agenda](24-01-22/agenda.md)
-  - [Minutes](24-01-22/minutes.md)
+  - [Agenda](2024-01-22/agenda.md)
+  - [Minutes](2024-01-22/minutes.md)
 
-- [11th December 2023](23-12-11)
+- [11th December 2023](2023-12-11)
 
-  - [Agenda](23-12-11/agenda.md)
-  - [Minutes](23-12-11/minutes.md)
+  - [Agenda](2023-12-11/agenda.md)
+  - [Minutes](2023-12-11/minutes.md)
 
-- [13th November 2023](23-11-13)
-  - [Agenda](23-11-13/agenda.md)
-  - [Minutes](23-11-13/minutes.md)
+- [13th November 2023](2023-11-13)
+  - [Agenda](2023-11-13/agenda.md)
+  - [Minutes](2023-11-13/minutes.md)
