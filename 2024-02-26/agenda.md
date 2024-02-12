@@ -1,10 +1,12 @@
-# Agenda for MDN Community meeting 26th February 2024
+# Agenda for MDN Community meeting 26th February '24
 
 ## Intro & overview of agenda
 
 ## Team updates
 
 Project updates from the MDN team
+
+- MDN Curriculum launch (Konstantina & Chris M)
 
 ## Contributor updates
 
