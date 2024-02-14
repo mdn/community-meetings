@@ -2,6 +2,8 @@
 
 ## Intro & overview of agenda
 
+- We have an Open Source Community Manager position open https://www.mozilla.org/en-US/careers/position/gh/5675010/ please share it with your networks - thank you!
+
 ## Team updates
 
 Project updates from the MDN team
