@@ -34,7 +34,7 @@ Konstantina:
 - The blog post will link to the curriculum repository where folks will be able to give feedback.
 
 Question from Brian: Is there any guidance or expectation on how much time a learner would take when proceeding from one module to the next?
-Chris: We had considered this aspect but timing ideas are vague and very subjective. the circumstances and backgrounds of learners are pretty varied. We decided not to include any time guidance for now but based on feedback, we could consider it in the future.
+Chris: We had considered this aspect but timing ideas are vague and very subjective. The circumstances and backgrounds of learners are pretty varied. We decided not to include any time guidance for now but based on feedback, we could consider it in the future.
 
 ## Contributing to MDN (@bsmth)
 
