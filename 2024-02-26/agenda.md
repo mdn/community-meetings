@@ -5,7 +5,7 @@
 ## Intro & overview of agenda
 
 - Some rules, use the chat. Larger topics can be carried over to next time.
-- We have an Open Source Community Manager position open https://www.mozilla.org/en-US/careers/position/gh/5675010/ please share it with your networks - thank you!
+- We have an Open Source Community Manager position open <https://www.mozilla.org/en-US/careers/position/gh/5675010/> please share it with your networks - thank you!
 - New [blog post by Dipika](https://developer.mozilla.org/en-US/blog/) about technical writing
 - Content workshop happening in March to assess Learn area and related docs given curriculum
 
