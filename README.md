@@ -12,7 +12,9 @@ There is a public calendar if you would like to subscribe to these events:
 
 ## Next meeting
 
-- March 2024 (TBD)
+- [27th March 2024](2024-03-27)
+  - [Agenda](2024-03-27/agenda.md)
+  - [Minutes](2024-03-27/minutes.md)
 
 ## Previous meetings
 
