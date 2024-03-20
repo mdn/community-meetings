@@ -4,7 +4,7 @@
 
 ## Intro & overview of agenda
 
-- Rules: use the chat for questions or to request to speak so that we're talking in-turns.
+- Rules: Please use the chat for questions or if you wish to speak, so that we can ensure everyone has a chance to talk.
 
 ## Team updates
 
