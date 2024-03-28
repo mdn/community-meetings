@@ -4,7 +4,7 @@
 
 ## Intro & overview of agenda
 
-- Rules: use the chat for questions or to request to speak so that we're talking in-turns.
+- Rules: Please use the chat for questions or if you wish to speak, so that we can ensure everyone has a chance to talk.
 
 ## Team updates
 
@@ -24,4 +24,12 @@ Project/work updates from contributors
 
 Questions from folks & anything to discuss
 
-- [example] Discuss my interesting topic. See [link for more details](https://github.com/mdn/community-meetings) (@MyUsername)
+- [How to use inline status macros?](https://github.com/orgs/mdn/discussions/654) (@onkarruikar)
+  Need to conlude the discussion/vote so that the synchronization automation can continue.
+  - Should secure context and status macros have the same strategy? At the moment we've decided on a [diffrent strategy for secure context macros](https://github.com/orgs/mdn/discussions/482#discussioncomment-7825014). It hasn't been implemented in entire content so there is still time to change it to match the status macro strategy.
+    
+- [Indicators & banners](https://docs.google.com/document/d/1aNnhhLuCMlG0G5r3p42eAyuy4JWJfT41S2a4XnqznA4/edit): Synchronous disucssion (is there a discussion on https://github.com/orgs/mdn/discussions/).
+- [Writing guidelines and Glossary sections are living on islands](https://github.com/orgs/mdn/discussions/661). These sections need some visiblity to be recognized.
+
+
+
