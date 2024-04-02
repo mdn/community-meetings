@@ -20,10 +20,10 @@ I will try and leave as much time as possible for discussions and questions beca
 
 ## Team updates
 
-- The Matrix room and the general channel on Discord are bridged.
-  That's a bi-directional chat. So messages post in the MDN matrix room, posted in the general channel on discord and vice versa.
-  It's 2-way communication to make sure that people on Matrix are not completely left out and that we don't miss messages there because we tend to be in Discord quite a lot - it's tricky being everywhere. This should help it a little; we're going to see how how that works out.
-- And we have a new blog post, it's about Interop: https://developer.mozilla.org/en-US/blog/interop2023-mdn-doc-updates/
+- The Matrix room and the "# general" channel on Discord are now bridged.
+  It's a bi-directional chat. So messages posted in the MDN matrix room are posted in the "# general" channel on Discord and vice versa.
+  We're trying to make sure that people on Matrix are not left out because we tend to be on Discord quite a lot.
+- There's a new blog post out about Interop: https://developer.mozilla.org/en-US/blog/interop2023-mdn-doc-updates/
 
 ### Footer
 
@@ -33,7 +33,7 @@ This involves a simple feedback form (on-page) asking users if they found the co
 Although there's no freeform text field feedback (for qualitative data), we're exploring other methods to gather this.
 
 Since launching, we've seen an average 70% positive sentiment in March.
-We will to analyze this data by larger sections before tackling individual pages, combining it with other metrics like page views to inform updates or removals.
+We will analyze this data by larger sections before tackling individual pages, combining it with other metrics like page views to inform updates or removals.
 This is an ongoing project, and we're not taking specific requests yet for the data as we focus on actionable tasks. Any questions?
 
 [Estelle] Q: Is there any way for people outside of Mozilla to see the feedback that is coming through?
@@ -78,7 +78,7 @@ The reporter gets blocked in such cases.
 Yes abusing the reporting process is indeed a violation, consequences can vary, but it's abuse. Not sure of the specific language in CPG for that.
 
 [Onkar]
-Is this information is linked from the main MDN website?
+Is this information linked from the main MDN website?
 
 [Brian Smith]
 The community pages on MDN have links, we might link directly to the Mozilla/inclusion repo.
@@ -229,11 +229,10 @@ We can conclude it in the discussion.
 Next up, indicators and banners. This one is from Estelle, is it?
 
 [Estelle]
-It's actually not for me, it's me for Ruth.
 I didn't know if there was a discussion, but if we could open up a discussion, point into the PRD, we can have the conversation in the Google doc and then once we have all the feedback in the Google Doc, port it over to the GitHub discussion.
 
 [Ruth John]
-This is a project that we want to undergo sometime later in the year to sort out this banner mess basically.
+This is a project that we want to go over sometime later in the year to sort out this banner mess basically.
 What I will do (I'm not necessarily against capturing the timeline of this in discussion) I think everybody has commented on the Doc I created now.
 Next up is to go through that Doc again and create a proposal.
 Once I've done that, we can start a discussion and say "this is the proposal" and discuss the thoughts behind it.
@@ -263,7 +262,6 @@ Yeah, it's next on the list.
 The sections Glossary and Writing Guidelines living on islands. A bit more of a visibility to be recognized.
 
 [Ruth John]
-I think these are 2 separate things.
 I think where we link to the Writing Guidelines, where we link to the Glossary, are 2 separate discussions to be had because they're very separate things.
 In the discussion, Will very rightly points out that if we put Writing Guidelines at the top anywhere, our users are just going to think it's "how to write code" guidelines.
 So that's not something that we are going to do.
@@ -274,21 +272,19 @@ It seems to be the consensus that people want it there.
 As far as the Writing Guidelines go.
 There's a lot of talk about where to put links and all the rest of it and the changes to be made.
 The key one for me was: when you click on contributing, you get taken to contributing.md on GitHub and then all the links in there move you back onto MDN.
-And then this kind of open kind of worms about where we put the contribution guidelines but I think they're too linked to the Writing Guidelines to really separate them.
+And then this kind of opens a can of worms about where we put the contribution guidelines but I think they're too linked to the Writing Guidelines to really separate them.
 
 And we can't have the Writing Guidelines elsewhere because they contain so much styling from MDN itself that we'd lose all of that.
-If we read the Writing Guidelines as well.
 
 [Onkar]
 So I think it is better to move whatever there is in the GitHub `.md` files about contributing to the rendered pages and we host everything like other MDN docs.
 So, basically all the README files on GitHub (CONTRIBUTING.md), we move it into the content and host it.
-The guidelines.
 
 [Ruth John]
 Yeah, I think that we could stop the user flow from going to GitHub and back again.
 We need to keep repository specific stuff with the repository though.
 
-That was a conscious decision that we made when we were doing all the contribution docs because otherwise we're gonna have 2 places to like list our 50 repositories and put all the guidelines for all of them on MDN.
+That was a conscious decision that we made when we were doing all the contribution docs because otherwise we're gonna have 2 places to list our 50 repositories and put all the guidelines for all of them on MDN.
 I don't think that's MDN content. I think that's repository-specific.
 
 So some stuff is still going to have to stay on repositories, READMEs, CONTRIBUTING.md, things like that.
@@ -298,7 +294,7 @@ We can have minimal stuff on the repository and most of the checking out, the gi
 
 [Ruth John]
 I think there is some "how to use GitHub" stuff in both places, we should review it again.
-We can review the contributing MD on content that we link to, revise that and make sure that when people do click on Contributing they're taken still to MDN rather than back and forth.
+We can review the contributing.md on content that we link to, revise that and make sure that when people do click on Contributing they're taken still to MDN rather than back and forth.
 
 [Estelle]
 The other thing we can do is since it's all markdown; point to the blob on GitHub which is actually then automatically rendered so it's just written in one place.
@@ -310,7 +306,7 @@ So that does help solve that problem, definitely.
 Unless you have macros. I think we can avoid them in our contributing docs.
 
 [Estelle]
-I mean, there'll be the sidebar macro, but that would be about it. Onside.
+I mean, there'll be the sidebar macro, but that would be about it.
 
 [Ruth John]
 Yeah, I think that's a blocker. As far as some of the suggestions on where this link should go, I think we carry that on in the discussion.
@@ -352,8 +348,7 @@ My pleasure.
 If there's anything else that you want to discuss, talk about, bring up. Now's a good time.
 
 [Estelle]
-Just a section on the discussions, which is I went through a bunch of discussions. And. So if I hit you up asking you a question about, moving your discussion forward.
-There's a lot of discussions that have been opened since like 2022 so don't take it personally if I ask you if you Want to move forward to closer because some of them.
+I went through a bunch of discussions. So I might have hit you up asking you a question to move your discussion forward. There's a lot of discussions that have been opened since like 2022.
 
 [Ruth John]
 That's great Estelle, thank you. I did start trying to do this a couple of months back but got caught up in discussions.
@@ -361,31 +356,21 @@ That's great Estelle, thank you. I did start trying to do this a couple of month
 ### Playground feedback
 
 [Onkar]
-Yeah, I have one, issue that is, that has been bugging me. In the playground there is a reset button.
-And when we click on the reset button, it wipes out everything. I think the recent button should bring back the original code.
-So if you if you come to the playground from any page, any example page. Like CSS...
+Yeah, I have one issue that has been bugging me. In the playground, there is a Reset button.
+And when we click on the Reset button, it wipes out everything. I think it should bring back the original code.
 
 [Brian sharing screen]
 
-[Dipika]
-CSS Colors.
-
-[Ruth John]
-We need a live sample.
-
 [Florian Dieminger]
-Background color, my favorite.
+Background color is my favorite.
 No, that's a good point. It should be a "clear" button. That's what it does.
-And I do see the need for a "reset". In that term.
+And I do see the need for a "reset".
 
 [Onkar]
-So now this is the original code and if you click on reset.
-It has wiped out everything and it, it isn't helping, right?
-Suppose I have modified the code and now I want the original code, right? To start something else from scratch.
+If I've modified the code and hit Reset but now I can't get the original code
 
 [Florian Dieminger]
-It is, Yeah. I think right now this is hard to actually.
-The original code is not stored anywhere. We should at least change it to "clear".
+Yeah, the original code is not stored anywhere. We should at least change it to "clear".
 So it's clear to everyone what this button does. It doesn't reset.
 
 I think it was done prior to the integration, so the thing was to reset the current state.
@@ -402,25 +387,20 @@ But to actually store the context you came with like the original example and re
 Probably have to wait until we do the second iteration of the playground, which will be midsummer, something like that.
 
 [Onkar]
-In the share URL you are already capturing the all code right
-In the link you already have the code, then could you just pick up the code and repopulate the editor?
+In the share URL, you are already capturing the code, right. Could you just pick up the code and repopulate the editor?
 
 [Florian Dieminger]
-No, the permalink actually that is quite different.
+No, the permalink is quite different.
 That actually creates Gist on GitHub where the code is stored and we don't have this for a live sample.
-So the live samples. They are basically stored in local Local storage.
-I can look if I can see an easy way to restore that state but right now basically we don't keep history.
+So the live samples are stored in local local storage.
+I can look if I can see an easy way to restore that state but right now we don't keep history.
 I mean that's the issue; if you modify the code, we override the current state and we don't have a history in the state.
-
-It's possible to add it. But what I'm trying to say is that we want to touch a lot of bits and pieces.
-And then also solve for that rather than find a way to make only that work now.
 
 [Onkar]
 So quick solution is to rename the button to clear, right?
 
 [Florian Dieminger]
-Yes, yes, and I think Control C in the editors works and maybe there is a way for me to actually
-Make this to go in the editors to the initial state. I need to look into that.
+Yes, and I think Control C in the editors works and maybe there is a way for me to actually make this to go in the editors to the initial state. I need to look into that.
 Thanks for bringing it up. I'm sorry for the confusion with that naming.
 
 [Onkar]
