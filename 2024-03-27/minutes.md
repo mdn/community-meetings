@@ -16,8 +16,6 @@ Agenda:
 - What's changed on Discord and Matrix
 - The new blog post out
 
-I will try and leave as much time as possible for discussions and questions because we have few at the end.
-
 ## Team updates
 
 - The Matrix room and the "# general" channel on Discord are now bridged.
@@ -51,7 +49,7 @@ Yeah, we went back and forth on this a lot of times. There were 3 links all to e
 
 [Brian Smith]
 I'll talk about Mozilla's Community Participation Guidelines (CPG) — this is super important for us, especially because we're on GitHub all day and working closely with the community.
-Here's a link for anyone interested.
+Here's a link to [Community Participation Guidelines (CPG)](https://www.mozilla.org/en-US/about/governance/policies/participation/) for anyone interested.
 The CPG guides how we all behave on MDN's GitHub repositories, ensuring everyone follows a shared code of conduct.
 
 There's a useful GitHub repo called [mozilla/inclusion](https://github.com/mozilla/inclusion) that has all the info on CPG, how to report issues, blog posts about it, and enforcement details.
