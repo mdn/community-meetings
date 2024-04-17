@@ -25,11 +25,7 @@ Project/work updates from contributors
 Questions from folks & anything to discuss
 
 - [How to use inline status macros?](https://github.com/orgs/mdn/discussions/654) (@onkarruikar)
-  Need to conlude the discussion/vote so that the synchronization automation can continue.
+  Need to conclude the discussion/vote so that the synchronization automation can continue.
   - Should secure context and status macros have the same strategy? At the moment we've decided on a [diffrent strategy for secure context macros](https://github.com/orgs/mdn/discussions/482#discussioncomment-7825014). It hasn't been implemented in entire content so there is still time to change it to match the status macro strategy.
-    
-- [Indicators & banners](https://docs.google.com/document/d/1aNnhhLuCMlG0G5r3p42eAyuy4JWJfT41S2a4XnqznA4/edit): Synchronous disucssion (is there a discussion on https://github.com/orgs/mdn/discussions/).
+- [Indicators & banners](https://docs.google.com/document/d/1aNnhhLuCMlG0G5r3p42eAyuy4JWJfT41S2a4XnqznA4/edit): Synchronous discussion (is there a discussion on https://github.com/orgs/mdn/discussions/).
 - [Writing guidelines and Glossary sections are living on islands](https://github.com/orgs/mdn/discussions/661). These sections need some visiblity to be recognized.
-
-
-

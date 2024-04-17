@@ -12,7 +12,10 @@ There is a public calendar if you would like to subscribe to these events:
 
 ## Next meeting
 
-- April 29, 2024
+- [29th April 2024](2024-04-29)
+
+  - [Agenda](2024-04-29/agenda.md)
+  - [Minutes](2024-04-29/minutes.md)
 
 ## Previous meetings
 
