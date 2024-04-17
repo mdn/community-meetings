@@ -12,7 +12,7 @@ There is a public calendar if you would like to subscribe to these events:
 
 ## Next meeting
 
-- April 2024 (TBD)
+- April 29, 2024
 
 ## Previous meetings
 
