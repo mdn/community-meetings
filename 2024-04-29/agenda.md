@@ -10,6 +10,8 @@
 
 Project updates from the MDN team
 
+- Spam coming from zombie GitHub actions @pepelsbey
+
 ## Contributor updates
 
 Project/work updates from contributors
