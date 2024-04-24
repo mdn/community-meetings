@@ -10,6 +10,7 @@
 
 Project updates from the MDN team
 
+- MDN community call: how it is going and what could be improved @Rumyra
 - Spam coming from zombie GitHub actions @pepelsbey
 
 ## Contributor updates
