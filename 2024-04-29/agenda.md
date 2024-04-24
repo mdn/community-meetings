@@ -22,4 +22,6 @@ Project/work updates from contributors
 
 Questions from folks & anything to discuss
 
-- [example] Discuss my interesting topic. See [link for more details](https://github.com/mdn/community-meetings) (@MyUsername)
+- Two discussions about part of MDN not accessible from the interface (@OnkarRuikar via @teoli2003):
+  - [Writing guidelines section is living on an island](https://github.com/orgs/mdn/discussions/661)
+  - [Glossary section is not reachable directly from anywhere](https://github.com/orgs/mdn/discussions/662)
