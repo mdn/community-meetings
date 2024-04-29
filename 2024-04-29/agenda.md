@@ -11,6 +11,11 @@
 Project updates from the MDN team
 
 - MDN community call: how it is going and what could be improved @Rumyra
+- Update on community manager @Rumyra
+- Update on content team projects @Rumyra
+  - Content workshop summary
+  - Sentiment data from article footer
+  - Reference indicators & banners
 - Spam coming from zombie GitHub actions @pepelsbey
 
 ## Contributor updates
