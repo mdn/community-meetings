@@ -34,7 +34,7 @@ Getting a community manager onboard will give us the opportunity to review how o
 
   I'm excited about getting the data in because then I can compare and see whether it's the same sections that are coming up month on month.
 
-- For the reference indicators and banners, I put together a document back in January. This kind of ties into some platform work, which is ongoing and will run into Q3/Q4. We are obviously in danger with Baseline being rolled out across the site - that's the indicator to say whether a feature is in baseline.
+- For the **reference indicators and banners**, I put together a document back in January. This kind of ties into some platform work, which is ongoing and will run into Q3/Q4. We are obviously in danger with Baseline being rolled out across the site - that's the indicator to say whether a feature is in baseline.
 
   We're going to get lots of banners at the top of pages, including those for secure context and deprecated features. We need to review how to present that information so we don't end up with just a box after box at the top of the page instead of the information that people actually need.
 
