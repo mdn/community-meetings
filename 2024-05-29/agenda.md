@@ -20,4 +20,4 @@ Project/work updates from contributors
 
 Questions from folks & anything to discuss
 
-- [example] Discuss my interesting topic. See [link for more details](https://github.com/mdn/community-meetings) (@MyUsername)
+- [Automation of banner display](https://github.com/orgs/mdn/discussions/676) (@leon-win).
