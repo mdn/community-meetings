@@ -14,7 +14,7 @@
 
 Project/work updates from contributors
 
-- [example] Progress on my awesome project. See [link for more details](https://github.com/mdn/community-meetings) (@MyUsername)
+- [Curriculum](https://developer.mozilla.org/en-US/curriculum/) updates (@chrisdavidmills)
 
 ## Questions/Discussions
 
