@@ -8,7 +8,7 @@
 
 ## Team updates
 
-Project updates from the MDN team
+- A new community manager introduction (@pepelsbey)
 
 ## Contributor updates
 
