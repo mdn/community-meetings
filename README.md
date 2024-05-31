@@ -12,12 +12,14 @@ There is a public calendar if you would like to subscribe to these events:
 
 ## Next meeting
 
+- In June [TBA]
+
+## Previous meetings
+
 - [29th May 2024](2024-05-29)
 
   - [Agenda](2024-05-29/agenda.md)
   - [Minutes](2024-05-29/minutes.md)
-
-## Previous meetings
 
 - [29th April 2024](2024-04-29)
 
