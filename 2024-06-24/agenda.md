@@ -6,7 +6,7 @@
 
 - Here's what will be discussed:
     - Content & Community Updates
-    - Office Hours for any Questions([add your questions here](#questions-and-discussions))
+    - Office Hours for any Questions ([add your questions here](#questions-and-discussions))
 - Rules: use the chat for questions or to request to speak so that we're talking in-turns.
 
 ## Team updates
