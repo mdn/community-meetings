@@ -12,7 +12,7 @@ There is a public calendar if you would like to subscribe to these events:
 
 ## Next meeting
 
-- In June [TBA]
+- 24 June 2024 ([Meeting Agenda](2024-06-24/agenda.md))
 
 ## Previous meetings
 
