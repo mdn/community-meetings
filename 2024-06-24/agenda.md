@@ -13,6 +13,10 @@
 
 Project updates from the MDN team
 
+- (Ruth/Pranshu) These meetings moving forward
+- (Ruth) Content workshop update
+- (Ruth) GitHub week (8th July)
+
 ## Contributor updates
 
 Project/work updates from contributors
@@ -23,4 +27,7 @@ Project/work updates from contributors
 
 Questions from folks & anything to discuss
 
+- (Ruth) External examples
+- (Ruth) Is there an objective around closing issues?
+- (Ruth) Inline icons [discussion](https://github.com/orgs/mdn/discussions/654#discussioncomment-9746229)
 - [example] Discuss my interesting topic. See [link for more details](https://github.com/mdn/community-meetings) (@MyUsername)
