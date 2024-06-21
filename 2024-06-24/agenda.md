@@ -16,6 +16,7 @@ Project updates from the MDN team
 - (Ruth/Pranshu) These meetings moving forward
 - (Ruth) Content workshop update
 - (Ruth) GitHub week (8th July)
+- (Claas) German locale project
 
 ## Contributor updates
 
