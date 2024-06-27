@@ -1,5 +1,5 @@
 # Minutes from MDN community meeting - 24th June 2024
-**Attendees:** Ruth John (@Rumyra), Chris Mills (@chrisdavidmills), Vadim Makeev (@pepelsbey), Pranshu Khanna (@pransh15), Dipika Bhattacharya (@dipikabh), Christine Belzie (@CBID2), Florian Dieminger (@fiji-flo), Claas Augner (@caugner), Florian Scholz (@elchi3)
+**Attendees:** Ruth John (@Rumyra), Chris Mills (@chrisdavidmills), Vadim Makeev (@pepelsbey), Pranshu Khanna (@pransh15), Dipika Bhattacharya (@dipikabh), Christine Belzie (@CBID2), Florian Dieminger (@fiji-flo), Claas Augner (@caugner), Florian Scholz (@elchi3), Brian Smith(@bmsith), Andi Piper(@argl), Onkar Ruikar(@OnkarRuikar)
 
 **Host:** Pranshu Khanna (@pransh15)
 
@@ -49,10 +49,6 @@ We'll make an announcement in GH Discussions, probably this week, with a few goa
 [Ruth] Yeah.
 
 [Chris] I say this not purely just for kind of you know, regular. Flow of. Volunteer contributions but also it's worth having a bunch of those in hand for when you start to get efforts like Hacktoberfest and stuff piling onto your site.
-
-[Ruth] Yeah.
-
-[Chris] Because if they can't find anything obvious to work on, they tend to start making all sorts of ludicrous unnecessarily small changes just so they can get their commit numbers up, which drives everyone crazy. So it's good to preempt things like that as well. I speak from experience having suffered through this for many years when I was working on MDN at Mozilla.
 
 [Ruth] Our previous community manager set up a project specifically for contributors. It would be a good idea to revisit that and see whether we can improve it. We also want to improve the workflow between contribution docs on MDN and what we have on GitHub because the flow is a little bit disjointed at the moment.
 
