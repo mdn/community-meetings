@@ -4,39 +4,45 @@
 **Host:** Pranshu Khanna (@pransh15)
 
 ## Intro and overview
-[Pranshu] So, hello everyone. Welcome to the June community call. I've shared the agenda in the chat. While you look at the agenda and if you're not a part of our discord community, please join the MDN community. There we have a lot of, MDN related chats. So some might interest you, some might not. And while you're on MDN spaces, make sure that you follow the Mozilla community participation guidelines.
 
-## Team Updates
+[Pranshu] Welcome to the June community call. If you're not a part of our discord community, please join the MDN community. While you're in MDN spaces, make sure that you follow the Mozilla community participation guidelines.
+
+## Team updates
 
 ### Project updates from the MDN team (@rumyra/@pransh15)
 
-[Ruth] Community calls moving forward. We've been discussing internally, making these meetings more focused.
+[Ruth] Moving forward, we are planning to make community calls more focused.
 
-So we will have them either focused on content and community and contributing or on products and engineering and what is happening with platform rewrites and releases and things like that. So the community members that are joining can join ones that they are interested in. More than anything. We have been talking about frequency and having some open office hours as well.
+We'll have one set focused on content, community, and contributing and another set focused on product and engineering, eg, what's happening with platform rewrites. Community members can join ones they are interested in.
 
-And I think once we've made some decisions around that, we will communicate that. Am I right, Pranshu?
+We've also been talking about frequency of these calls and having some open office hours as well. Once we've made some decisions around that, we will communicate that. Am I right, Pranshu?
 
-[Pranshu] Yes, that's correct. Any suggestions if you have around office hours around, content and community/product/engineering? Please share. We're very open to feedback and make this experience for you.
+[Pranshu] Yes, that's correct. Please share if you any suggestions around office hours and content and community/product/engineering calls. We're very open to feedback and make this experience work for you.
 
 [Chris] One of the things I was just gonna query like I assume like whatever the frequency ends up being you're just gonna sort of alternate between Product/Engineering and content. That's cool. Yeah, that totally makes sense. I also like the idea of having the odd office hours bit as well.
 
 [Ruth] Yeah, something maybe a little bit less official and people can just come and talk about things that they need to talk about.
 
 ### Content Workshop Update (@rumyra)
+
 [Ruth] We ran a couple of content workshops at the end of Q1 and I have been slowly putting together a plan for the content architecture is in the document side of it, not the UI side of it. And when we want to write things and where we want to put them. I'm putting together a presentation this week. I will be doing it finally hopefully on Thursday for which I'll receive feedback. I can then share the presentation with the community members and get feedback then as to what a good plan would be for content, but I just wanted it to give you an update. It hasn't fallen by the wayside.
 
 [Pranshu] Sounds good.
 
 ### GitHub Week - 8th July (@rumyra)
-[Ruth] Next to the, the week of July the 8, th the content and community team at Mozilla will be having a GitHub week.  We do try to do these once every 6 months. I think we missed the last one and it's basically sort of going and doing a bit of spring cleaning, making sure we're flushing out still things, reviewing some of our processes and looking at the pain points again and considering those. We're not going to have everything done in one week, but it's a space just for us to be able to focus on that specifically, like the GitHub organization and the management and things like that, which we don't tend to do on our day-to-day. We're more focused on other things. So we will make an announcement in discussions. I'm assuming this week, with a few goals and what to expect. But we just wanted to let you all know just in case you see us all around for one week and we're doing lots of things. We will keep everybody informed. With the things that we are actually doing.
+[Ruth] The content and community team at Mozilla will be having a GitHub week. We try to do these once every 6 months. We'll be doing a bit of spring cleaning of our GitHub repositories, reviewing some of our processes, and looking at the pain points again.
 
-[Chris] I was just going to ask is that just related to kind of closing style issues or is it a wider variety of things?
+We won't accomplish everything in a week, but it's a space for us to be able to focus specifically on GitHub organization and management and other tasks that we don't tend to do in our day-to-day. 
 
-[Ruth] We will do some triaging and we will look at stale things. The thing is that that has been more of a focus on previous GitHub weeks and these days we actually have quite a lot less than we probably think we do. I think with Pranshu starting and joining last month, it's also really good opportunity just to look at the processes and the way that we do trash things, what our projects look like. Teams and access rights, all those processes kind of need just to sort of be checked and reviewed and make sure that they work for everybody.
+We'll make an announcement in GH Discussions, probably this week, with a few goals and what to expect. We will keep everybody informed with the things that we are actually doing.
+
+[Chris] Is this just related to closing issues or is it a wider variety of things?
+
+[Ruth] We will do some triaging and we will look at stale things. I think with Pranshu starting last month, it's a really good opportunity to look at the processes, the way that we track things, what our projects look like, and teams and access rights. All those aspects need to be sorted and reviewed periodically to make sure they're working for everybody.
 
 [Onkar] Is it like inviting students to work on small tasks?
 
-[Ruth] Not this one. I think that is a different kind of week, which I do hope we will be able to run at some point, but I think this one will just be the core like. The people in the room who are writers here, Pranshu and we can Just start a plan for the next 6 months and then we'll do it all over again at Christmas and then all over again this time next year and just keep iterating and improving.
+[Ruth] Not this one. This one will include the core team, the writers and Pranshu. We repeat this exercise every six months for iterating over and improving our processes and guidelines.
 
 [Chris] That's great. It sounds super positive because I've noticed that OWD folks have been doing quite a bit of issue triage and stuff recently. So that's great and then Some of our volunteers have as well like Josh Chen has done absolutely loads of stuff recently closing a load of stale issues. I'm also wondering whether it would be worth spending a bit of your time kind of figuring out a way to highlight issues which would be good kind of You know. Like good 1st issue type things but not necessarily that but you know just sort of this is something that can be worked on without a massive mind field hassle, go crazy and run away screaming.
 
@@ -48,7 +54,7 @@ And I think once we've made some decisions around that, we will communicate that
 
 [Chris] Because if they can't find anything obvious to work on, they tend to start making all sorts of ludicrous unnecessarily small changes just so they can get their commit numbers up, which drives everyone crazy. So it's good to preempt things like that as well. I speak from experience having suffered through this for many years when I was working on MDN at Mozilla.
 
-[Ruth] Yeah, so it's our previous community manager. We haven't had one for yet, but he did set up a project specifically for contributors to come in. So I think it would be good idea to revisit that and see whether we can improve it. And Yeah, look at look at the processes for. When people come in, there was a comment recently that our contribution docs take you to get her and then take you back to the contribution docks and that flow is a little bit disjointed. So things like that I think we can look at. Say yes.
+[Ruth] Our previous community manager set up a project specifically for contributors. It would be a good idea to revisit that and see whether we can improve it. We also want to improve the workflow between contribution docs on MDN and what we have on GitHub because the flow is a little bit disjointed at the moment.
 
 [Pranshu] Okay. Also reviewing PRs I mean if a new wave of contributors come in and just annoying everyone but with a lot of reviews right and if you're not supposed to be there It might just be easier to review the processes right now before have to professed before, you know, these students come in and yeah.
 
@@ -184,13 +190,3 @@ I want to see the vote on the discussion to see how maintainers feel we this sho
 [Pranshu] Awesome. So we don't have anything else on the agenda. One last important update that I wanted to share was that our next community call will be on the 23rd of July. 2024, which you, if you haven't guessed it yet, it's, MDN will turn 19. I hope to see all of you there.
 
 Okay. Cool, awesome. Alright, so we still have 15 min. Which I happily give you back because it's Chris' birthday. So, alright, thank you so much to everyone for joining. And see you in the next one.
-
-[Ruth] Thanks.
-
-[Brian] Thanks a lot. See ya.
-
-[Dipika] Thank you.
-
-[Chris] Cheers, folks. See you later.
-
-[Pranshu] Thank you so much.
