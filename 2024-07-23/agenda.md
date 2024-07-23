@@ -18,6 +18,7 @@ Project updates from the MDN team
 - MDN HTTP Observatory Feedback
 - Reviewer Meeting
 - Localization Meeting
+- New callouts system (@pepelsbey)
 
 ## Contributor updates
 
