@@ -13,6 +13,11 @@
 Project updates from the MDN team
 
 - MDN Birthday!
+- Updates from GitHub Work Week
+- Scrimba Curriculum Feedback
+- MDN HTTP Observatory Feedback
+- Reviewer Meeting
+- Localization Meeting
 
 ## Contributor updates
 
