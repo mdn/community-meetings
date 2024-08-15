@@ -11,6 +11,7 @@
 Project updates from the MDN team
 
 - Introducing Content Meeting starting September
+- Call for Contributors from friends at Common Voice (@jessicarose)
 
 ## Contributor updates
 
