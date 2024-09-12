@@ -35,7 +35,7 @@ There is a public calendar if you would like to subscribe to these events:
   - [Minutes](2024-05-29/minutes.md)
 
 <details>
-  <summary>Meetings before April 2024</summary>
+  <summary>Meetings before May 2024</summary>
 
 - [29th April 2024](2024-04-29)
   - [Agenda](2024-04-29/agenda.md)
