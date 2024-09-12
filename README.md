@@ -12,48 +12,48 @@ There is a public calendar if you would like to subscribe to these events:
 
 ## Next meeting
 
-- 21 August 2024 ([Meeting Agenda](2024-08-21/agenda.md))
+- 25 September 2024 ([Meeting Agenda](2024-09-25/agenda.md))
+- Content Meeting:
+  - 16 September 2024 ([Meeting Agenda](2024-09-16/agenda.md))
 
 ## Previous meetings
 
-- 23 July 2024
+- [02 September 2024 - Content Meeting](2024-09-02)
+  - ([Agenda](2024-09-02/agenda.md))
+  - ([Minutes](2024-09-02/minutes.md))
+- [21 August 2024](2024-08-21)
+  - ([Agenda](2024-08-21/agenda.md))
+  - ([Minutes](2024-08-21/minutes.md))
+- [23 July 2024](2024-07-23)
   - ([Agenda](2024-07-23/agenda.md))
   - ([Minutes](2024-07-23/minutes.md))
-
-- [24 June 2024]([2024-06-24)
+- [24 June 2024](2024-06-24)
   - [Agenda](2024-06-24/agenda.md)
   - [Minutes](2024-06-24/minutes.md)
-
 - [29th May 2024](2024-05-29)
-
   - [Agenda](2024-05-29/agenda.md)
   - [Minutes](2024-05-29/minutes.md)
 
-- [29th April 2024](2024-04-29)
+<details>
+  <summary>Meetings before May 2024</summary>
 
+- [29th April 2024](2024-04-29)
   - [Agenda](2024-04-29/agenda.md)
   - [Minutes](2024-04-29/minutes.md)
-
 - [27th March 2024](2024-03-27)
-
   - [Agenda](2024-03-27/agenda.md)
   - [Minutes](2024-03-27/minutes.md)
-
 - [26th February 2024](2024-02-26)
-
   - [Agenda](2024-02-26/agenda.md)
   - [Minutes](2024-02-26/minutes.md)
-
 - [22nd January 2024](2024-01-22)
-
   - [Agenda](2024-01-22/agenda.md)
   - [Minutes](2024-01-22/minutes.md)
-
 - [11th December 2023](2023-12-11)
-
   - [Agenda](2023-12-11/agenda.md)
   - [Minutes](2023-12-11/minutes.md)
-
 - [13th November 2023](2023-11-13)
   - [Agenda](2023-11-13/agenda.md)
   - [Minutes](2023-11-13/minutes.md)
+
+</details>
