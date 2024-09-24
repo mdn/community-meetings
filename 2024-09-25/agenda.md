@@ -18,6 +18,5 @@ Project/work updates from contributors
 
 ## Questions/Discussions
 
-Questions from folks & anything to discuss
-
+- [content] Should we lint old color syntax? The syntax with comma such as `rgb(100, 100, 100)` and `rgba(100, 100, 100, 0.5)`. There will be scope for adding exceptions so it won't be that strict. (@onkar)
 - [example] Discuss my interesting topic. See [link for more details](https://github.com/mdn/community-meetings) (@MyUsername)
