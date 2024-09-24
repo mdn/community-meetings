@@ -10,6 +10,8 @@
 
 Project updates from the MDN team
 
+- (Claas) German MDN preview
+
 ## Contributor updates
 
 Project/work updates from contributors
