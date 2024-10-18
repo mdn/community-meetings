@@ -12,12 +12,15 @@ There is a public calendar if you would like to subscribe to these events:
 
 ## Next meeting
 
-- 25 September 2024 ([Meeting Agenda](2024-09-25/agenda.md))
+- 23 October 2024 ([Meeting Agenda](2024-10-23/agenda.md))
 - Content Meeting:
-  - 16 September 2024 ([Meeting Agenda](2024-09-16/agenda.md))
+  - 28 October 2024
 
 ## Previous meetings
 
+- [25 September 2024](2024-09-25)
+  - ([Agenda](2024-09-25/agenda.md))
+  - ([Minutes](2024-09-25/minutes.md))
 - [02 September 2024 - Content Meeting](2024-09-02)
   - ([Agenda](2024-09-02/agenda.md))
   - ([Minutes](2024-09-02/minutes.md))
