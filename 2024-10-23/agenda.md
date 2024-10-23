@@ -9,7 +9,7 @@
 ## Team updates
 
 - (Pranshu) [Community Page is now LIVE!](https://developer.mozilla.org/en-US/community)
-- (Brian) Examples
+- (Brian) Examples, what's next
 
 ## Contributor updates
 
