@@ -8,7 +8,8 @@
 
 ## Team updates
 
-Project updates from the MDN team
+- (Pranshu) [Community Page is now LIVE!](https://developer.mozilla.org/en-US/community)
+- (Brian) Examples
 
 ## Contributor updates
 
