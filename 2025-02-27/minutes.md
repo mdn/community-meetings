@@ -1,1 +1,1 @@
-# Minutes from MDN community meeting - 23rd October, 2024
+# Minutes from MDN community meeting - 27th February, 2025
