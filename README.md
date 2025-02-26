@@ -12,7 +12,7 @@ There is a public calendar if you would like to subscribe to these events:
 
 ## Next meeting
 
-- 27 February 2025 ([Meeting Agenda](2025-02-27/agenda.md)) on the [MDN Discord](https://developer.mozilla.org/discord)
+- 27 February 2025: ([Meeting Agenda](2025-02-27/agenda.md)) on the [MDN Discord](https://developer.mozilla.org/discord)
 - Content Meeting: 3rd March 2025
 
 ## Previous meetings
@@ -37,23 +37,23 @@ There is a public calendar if you would like to subscribe to these events:
   - ([Agenda](2024/2024-07-23/agenda.md))
   - ([Minutes](2024/2024-07-23/minutes.md))
 - [24 June 2024](2024/2024-06-24)
-  - [Agenda](2024/2024-06-24/agenda.md)
-  - [Minutes](2024/2024-06-24/minutes.md)
+  - ([Agenda](2024/2024-06-24/agenda.md))
+  - ([Minutes](2024/2024-06-24/minutes.md))
 - [29th May 2024](2024/2024-05-29)
-  - [Agenda](2024/2024-05-29/agenda.md)
-  - [Minutes](2024/2024-05-29/minutes.md)
+  - ([Agenda](2024/2024-05-29/agenda.md))
+  - ([Minutes](2024/2024-05-29/minutes.md))
 - [29th April 2024](2024-04-29)
-  - [Agenda](2024-04-29/agenda.md)
-  - [Minutes](2024-04-29/minutes.md)
+  - ([Agenda](2024-04-29/agenda.md))
+  - ([Minutes](2024-04-29/minutes.md))
 - [27th March 2024](2024-03-27)
-  - [Agenda](2024-03-27/agenda.md)
-  - [Minutes](2024-03-27/minutes.md)
+  - ([Agenda](2024-03-27/agenda.md))
+  - ([Minutes](2024-03-27/minutes.md))
 - [26th February 2024](2024-02-26)
-  - [Agenda](2024-02-26/agenda.md)
-  - [Minutes](2024-02-26/minutes.md)
+  - ([Agenda](2024-02-26/agenda.md))
+  - ([Minutes](2024-02-26/minutes.md))
 - [22nd January 2024](2024-01-22)
-  - [Agenda](2024-01-22/agenda.md)
-  - [Minutes](2024-01-22/minutes.md)
+  - ([Agenda](2024-01-22/agenda.md))
+  - ([Minutes](2024-01-22/minutes.md))
 
 </details>
 
@@ -61,10 +61,10 @@ There is a public calendar if you would like to subscribe to these events:
   <summary>Meetings in 2023</summary>
 
 - [11th December 2023](2023-12-11)
-  - [Agenda](2023-12-11/agenda.md)
-  - [Minutes](2023-12-11/minutes.md)
+  - ([Agenda](2023-12-11/agenda.md))
+  - ([Minutes](2023-12-11/minutes.md))
 - [13th November 2023](2023-11-13)
-  - [Agenda](2023-11-13/agenda.md)
-  - [Minutes](2023-11-13/minutes.md)
+  - ([Agenda](2023-11-13/agenda.md))
+  - ([Minutes](2023-11-13/minutes.md))
 
 </details>
