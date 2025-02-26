@@ -17,22 +17,18 @@ There is a public calendar if you would like to subscribe to these events:
 
 ## Previous meetings
 
+<details>
+  <summary>Meetings in 2024</summary>
+
 - [23 October 2024](2024-10-23)
   - ([Agenda](2024-10-23/agenda.md))
   - ([Minutes](2024-10-23/minutes.md))
 - [25 September 2024](2024/2024-09-25)
   - ([Agenda](2024/2024-09-25/agenda.md))
   - ([Minutes](2024/2024-09-25/minutes.md))
-- [02 September 2024 - Content Meeting](2024/2024-09-02)
-  - ([Agenda](2024/2024-09-02/agenda.md))
-  - ([Minutes](2024/2024-09-02/minutes.md))
 - [21 August 2024](2024/2024-08-21)
   - ([Agenda](2024/2024-08-21/agenda.md))
   - ([Minutes](2024/2024-08-21/minutes.md))
-
-<details>
-  <summary>Meetings in 2024</summary>
-
 - [23 July 2024](2024/2024-07-23)
   - ([Agenda](2024/2024-07-23/agenda.md))
   - ([Minutes](2024/2024-07-23/minutes.md))
