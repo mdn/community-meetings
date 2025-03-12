@@ -1,4 +1,4 @@
-# Agenda for MDN Community meeting - 23rd October, 2024
+# Agenda for MDN Community meeting - 26th March, 2025
 
 **Join details:** See 'where' in [the calendar invite](https://calendar.google.com/calendar/u/0/embed?src=c_4656dd7c36825e2be115c0e7992191d550d16edcec37151eb6018581f654727b@group.calendar.google.com) for the call URL.
 
@@ -8,8 +8,7 @@
 
 ## Team updates
 
-- (Pranshu) [Community Page is now LIVE!](https://developer.mozilla.org/en-US/community)
-- (Brian) Examples, what's next
+Project updates from the MDN team
 
 ## Contributor updates
 

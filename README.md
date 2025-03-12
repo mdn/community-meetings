@@ -12,6 +12,7 @@ There is a public calendar if you would like to subscribe to these events:
 
 ## Next meeting
 
+<<<<<<< Updated upstream
 - 23 October 2024 ([Meeting Agenda](2024-10-23/agenda.md))
 - Content Meeting:
   - 28 October 2024
@@ -40,6 +41,38 @@ There is a public calendar if you would like to subscribe to these events:
 <details>
   <summary>Meetings before May 2024</summary>
 
+=======
+- 26 March 2025 ([Meeting Agenda](2025-03-26/agenda.md)) on the [MDN Discord](https://developer.mozilla.org/discord)
+- Content Meeting: 17th March 2025, let us on the [MDN Discord](https://developer.mozilla.org/discord) if you'd like to join.
+
+## Previous meetings
+
+- [27 February 2025](2025-02-27)
+  - ([Agenda](2025-02-27/agenda.md))
+  - ([Minutes](2025-02-27/minutes.md))
+
+<details>
+  <summary>Meetings in 2024</summary>
+
+- [23 October 2024](2024-10-23)
+  - ([Agenda](2024-10-23/agenda.md))
+  - ([Minutes](2024-10-23/minutes.md))
+- [25 September 2024](2024/2024-09-25)
+  - ([Agenda](2024/2024-09-25/agenda.md))
+  - ([Minutes](2024/2024-09-25/minutes.md))
+- [02 September 2024 - Content Meeting](2024/2024-09-02)
+  - ([Agenda](2024/2024-09-02/agenda.md))
+  - ([Minutes](2024/2024-09-02/minutes.md))
+- [23 July 2024](2024/2024-07-23)
+  - ([Agenda](2024/2024-07-23/agenda.md))
+  - ([Minutes](2024/2024-07-23/minutes.md))
+- [24 June 2024](2024/2024-06-24)
+  - [Agenda](2024/2024-06-24/agenda.md)
+  - [Minutes](2024/2024-06-24/minutes.md)
+- [29th May 2024](2024/2024-05-29)
+  - [Agenda](2024/2024-05-29/agenda.md)
+  - [Minutes](2024/2024-05-29/minutes.md)
+>>>>>>> Stashed changes
 - [29th April 2024](2024-04-29)
   - [Agenda](2024-04-29/agenda.md)
   - [Minutes](2024-04-29/minutes.md)
