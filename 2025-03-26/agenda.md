@@ -20,4 +20,4 @@ Project/work updates from contributors
 
 Questions from folks & anything to discuss
 
-- Possible intern opportunities for contributors. See [link for more details](https://github.com/mdn/community-meetings) (@CBID2)
+- Possible intern opportunities for contributors (@CBID2)
