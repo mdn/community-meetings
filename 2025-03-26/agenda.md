@@ -20,4 +20,6 @@ Project/work updates from contributors
 
 Questions from folks & anything to discuss
 
+- [example] Discuss my interesting topic. See [link for more details](https://github.com/mdn/community-meetings) (@MyUsername)
+- [content] How to keep contributing? General tips, resources to share in chat, fostering curiosity about learning from W3C and WICG, engaging with the community, and checking "help wanted" issues. ([@yashrajbharti](https://github.com/yashrajbharti))
 - Possible intern opportunities for contributors (@CBID2)
