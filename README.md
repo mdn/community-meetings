@@ -12,11 +12,14 @@ There is a public calendar if you would like to subscribe to these events:
 
 ## Next meeting
 
-- 26 March 2025: ([Meeting Agenda](2025-03-26/agenda.md)) on the [MDN Discord](https://developer.mozilla.org/discord)
-- Content Meeting: 17th March 2025
+- 30 April 2025: ([Meeting Agenda](2025-04-30/agenda.md)) on the [MDN Discord](https://developer.mozilla.org/discord)
+- Content Meeting: 28th March 2025
 
 ## Previous meetings
 
+- [26 March 2025](2025-03-26)
+  - ([Agenda](2025-03-26/agenda.md))
+  - ([Minutes](2025-03-26/minutes.md))
 - [27 February 2025](2025-02-27)
   - ([Agenda](2025-02-27/agenda.md))
   - ([Minutes](2025-02-27/minutes.md))
