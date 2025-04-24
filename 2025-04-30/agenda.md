@@ -20,12 +20,12 @@ Project/work updates from contributors
 
 Questions from folks & anything to discuss
 
-- [example] Discuss my interesting topic. See [link for more details](https://github.com/mdn/community-meetings) (@MyUsername)
+- (@YourUsername) I would like to discuss <add your topic>. See <[add your link](url)> for more details.
 
-## Technical Writing Workshop
+## Technical writing workshop
 
 Workshop by Pranit Brahmbhatt, Technical Content Developer at Dell.
 
 Questions for the Facilitator
 
-- [example] Can you tell me more about my interesting question? See [link for more details](https://github.com/mdn/community-meetings) (@MyUsername)
+- (@YourUsername) Can you tell me more about <add your question or topic>? See <[add your link](url)> for more details.
