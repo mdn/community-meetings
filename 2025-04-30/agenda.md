@@ -3,6 +3,18 @@
 **Join details:** See 'where' in [the calendar invite](https://calendar.google.com/calendar/u/0/embed?src=c_4656dd7c36825e2be115c0e7992191d550d16edcec37151eb6018581f654727b@group.calendar.google.com) for the call URL.
 
 ## Intro & overview of agenda
+### Agenda:
+1) Introduction and welcome
+2) What is Technical Writing?
+3) Why Technical Writing Matters?
+4) Frameworks for Technical Writing
+    - Common Structures
+    - Diátaxis Framework
+    - Docs-as-Code
+5) Best Practices and Key Tips
+6) How to Get Started
+7) Resources and Communities
+8) Q&A
 
 - Rules: use the chat for questions or to request to speak so that we're talking in-turns.
 
