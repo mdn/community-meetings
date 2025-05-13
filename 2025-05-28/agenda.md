@@ -22,9 +22,9 @@ Questions from folks & anything to discuss
 
 - (@YourUsername) I would like to discuss <add your topic>. See <[add your link](url)> for more details.
 
-## Technical writing workshop
+## CSS in 2025: What's new?
 
-Talk and Demo by Yash Raj Jain, UX Engineer at Mercor.
+Talk and Demo by Yash Raj Bharti, UX Engineer at Mercor.
 
 ### Agenda:
 
@@ -32,7 +32,7 @@ Talk and Demo by Yash Raj Jain, UX Engineer at Mercor.
   - @functions
   - If else
   - View transitions
-  - Scroll driven animations
+  - Scroll-driven animations
   - @property
   - The new attr()
   - and more..
