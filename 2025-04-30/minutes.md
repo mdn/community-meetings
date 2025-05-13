@@ -22,6 +22,6 @@ Pranshu: As someone who has faciliated, volunteered and wrangled at the Mozilla 
 
 Pranshu: It's happening from 7-9 November in Barcelona, and I'm attending! Even if you're speaking, thinking of speaking, or attending, come meet me. If you have any questions, feel free to let me know on [Discord](https://mdn.dev/discord).
 
-If you would like to follow the workshop happened ahead, you can checkout the [video on YouTube.](https://youtu.be/WLJiNbfnPPs?si=YfPrAEUuNFq3shdP)
+If you would like to follow the workshop happened ahead, you can checkout the [video on YouTube](https://youtu.be/WLJiNbfnPPs?si=YfPrAEUuNFq3shdP).
 
 Pranshu: Thank you, everyone! See you next month!
