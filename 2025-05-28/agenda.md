@@ -10,6 +10,8 @@
 
 Project updates from the MDN team
 
+- (@bsmth) Some code style modernization changes landing. Good opportunities to create some PRs. I'll be putting them in our [issue board](https://github.com/orgs/mdn/projects/25).
+
 ## Contributor updates
 
 Project/work updates from contributors
