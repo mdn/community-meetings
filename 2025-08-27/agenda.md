@@ -24,3 +24,4 @@ Project/work updates from contributors
 Questions from folks & anything to discuss
 
 - (@YourUsername) I would like to discuss <add your topic>. See <[add your link](url)> for more details.
+- (@yashrajbharti) **Temporal API**: status in Firefox (current support), expected path to support, and any blockers in the way.
