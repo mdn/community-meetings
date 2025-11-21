@@ -10,7 +10,7 @@ There is a public calendar if you would like to subscribe to these events:
 - [Web](https://calendar.google.com/calendar/embed?src=c_4656dd7c36825e2be115c0e7992191d550d16edcec37151eb6018581f654727b%40group.calendar.google.com&ctz=Europe%2FLondon)
 - [iCal](https://calendar.google.com/calendar/ical/c_4656dd7c36825e2be115c0e7992191d550d16edcec37151eb6018581f654727b%40group.calendar.google.com/public/basic.ics)
 
-## Next meeting
+## Upcoming meetings
 
 - 4 December 2025: ([Meeting Agenda](2025-12-04/agenda.md)) on the [MDN Discord](https://developer.mozilla.org/discord)
 - Editorial Meeting: 24th November 2025
