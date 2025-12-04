@@ -10,7 +10,12 @@
 
 Project updates from the MDN team
 
-- Last community call of 2025! 🎉
+- (Pranshu) Kickoff - Last community call of 2025! 🎉
+- (Pranshu) [Contributor Spotlight - Shrinivass Arunachalam Balasubramanian](https://developer.mozilla.org/en-US/community/spotlight/shrinivass-arunachalam-balasubramanian)
+- (Dipika) CSS Reorg completed
+- (Pranshu) MDN at MozFest
+- (Vadim) MDN at TPAC
+- (Ruth) MDN workweek with DevTools and WebDriver BiDi
 
 ## Contributor updates
 
